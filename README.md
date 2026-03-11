@@ -8,10 +8,13 @@ A production-grade Flutter news application featuring a dark editorial design, r
 
 ## 📱 Screenshots
 
-| Home Feed | Article Detail | Bookmarks |
-|-----------|---------------|-----------|
-| Featured hero card + article list | Full content + open in browser | Saved articles with local storage |
+<div align="center">
 
+|                Home Feed                 |                   Article Detail                   |                 Bookmarks                 |
+|:----------------------------------------:|:--------------------------------------------------:|:-----------------------------------------:|
+| ![Home Feed](assets/images/HomeFeed.jpg) | ![Article Detail](assets/images/ArticleDetail.jpg) | ![Bookmarks](assets/images/Bookmarks.jpg) |
+
+</div>
 ---
 
 ## ✨ Features
