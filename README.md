@@ -56,35 +56,6 @@ flutter run
 
 ---
 
-## 🔑 Connecting to Live News (Optional)
-
-### Step 1 — Get a Free API Key
-Register at **https://newsapi.org/register** (free tier: 100 requests/day).
-
-### Step 2 — Add Your Key
-Open `lib/services/news_service.dart` and replace:
-
-```dart
-static const String _apiKey = 'YOUR_API_KEY_HERE';
-```
-
-with your actual key:
-
-```dart
-static const String _apiKey = 'abc123yourrealapikey';
-```
-
-### Step 3 — Internet Permission (Android)
-Your `AndroidManifest.xml` should already contain:
-
-```xml
-<uses-permission android:name="android.permission.INTERNET"/>
-```
-
-That's it — rebuild and run for live headlines! 🎉
-
----
-
 ## 📁 Project Structure
 
 ```
